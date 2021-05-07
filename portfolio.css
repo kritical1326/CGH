@@ -1,0 +1,76 @@
+h1,h3{
+
+  font-family: arial, "Open Sans";
+  color: 	#189AB4;
+  margin: auto;
+  text-align: center;
+  padding: 2vh 2vh;
+  font-weight: bold;
+  background-color: 	#D4F1F4;
+  border-radius: 1vh;
+}
+
+h2{
+  font-family: arial, "Open Sans";
+  color: #05445E;
+  margin: auto;
+  text-align: left;
+  padding: 1vh 2vh;
+}
+
+.doc1{
+  font-family: arial, "Open Sans";
+  color: #189AB4;
+  margin: auto;
+  text-align: center;
+  padding: 1vh 2vh;
+}
+
+.add{
+  font-family: arial, "Open Sans";
+  color: #189AB4;
+  margin: auto;
+  text-align: left;
+  padding: 1vh 2vh;
+}
+
+.about{
+  font-family: arial, "Open Sans";
+  color: #05445E;
+  margin: auto;
+  text-align: justify;
+  padding: 1vh 2vh;
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 1vh 1vh;
+}
+
+.doc{
+  font-family: arial, "Open Sans";
+  color: #05445E;
+  margin: auto;
+  text-align: justify;
+  padding: 1vh 2vh;
+}
+
+h4{
+  font-family: arial, "Open Sans";
+  color: #189AB4;
+  margin: auto;
+  text-align: center;
+  padding: 1vh 2vh;
+}
+
+  
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1vh 1vh;
+  }
+  
